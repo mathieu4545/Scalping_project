@@ -1,0 +1,62 @@
+2024-08-30 21:02:38,412 - INFO - Backtesting process started.
+2024-08-30 21:03:16,108 - INFO - Backtesting process started.
+2024-08-30 21:03:16,211 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-08-30 21:05:19,189 - INFO - Backtesting process started.
+2024-08-30 21:05:19,284 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-08-30 21:05:22,438 - INFO - Accuracy: 37.68%
+2024-08-30 21:05:22,439 - INFO - Backtesting process finished.
+2024-08-30 21:05:43,532 - INFO - Backtesting process started.
+2024-08-30 21:05:43,643 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-08-30 21:05:48,437 - INFO - Accuracy: 47.57%
+2024-08-30 21:05:48,437 - INFO - Backtesting process finished.
+2024-08-30 21:06:00,488 - INFO - Backtesting process started.
+2024-08-30 21:06:00,579 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-08-30 21:06:09,504 - INFO - Accuracy: 45.63%
+2024-08-30 21:06:09,504 - INFO - Backtesting process finished.
+2024-08-30 21:06:32,979 - INFO - Backtesting process started.
+2024-08-30 21:06:33,078 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-08-30 21:07:54,665 - INFO - Accuracy: 48.93%
+2024-08-30 21:07:54,665 - INFO - Backtesting process finished.
+2024-08-30 21:12:31,127 - INFO - Backtesting process started.
+2024-08-30 21:12:31,226 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-08-30 21:13:59,894 - INFO - Accuracy: 48.93%
+2024-08-30 21:14:03,023 - INFO - Accuracy: 37.68%
+2024-08-30 21:14:06,313 - INFO - Accuracy: 52.17%
+2024-08-30 21:14:09,294 - INFO - Accuracy: 49.28%
+2024-08-30 21:14:12,457 - INFO - Accuracy: 57.97%
+2024-08-30 21:14:12,457 - INFO - Backtesting process finished.
+2024-08-30 21:20:12,109 - INFO - Backtesting process started.
+2024-08-30 21:20:12,198 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-08-30 21:21:37,377 - INFO - Accuracy: 48.93%
+2024-08-30 21:21:40,504 - INFO - Accuracy: 54.41%
+2024-08-30 21:21:40,506 - INFO - Backtesting process finished.
+2024-08-30 21:59:04,969 - INFO - Backtesting process started.
+2024-08-30 21:59:05,071 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-08-30 22:00:28,414 - INFO - Accuracy: 48.93%
+2024-08-30 22:00:31,510 - INFO - Accuracy: 57.97%
+2024-08-30 22:00:34,350 - INFO - Accuracy: 44.93%
+2024-08-30 22:00:37,210 - INFO - Accuracy: 54.41%
+2024-08-30 22:08:18,468 - INFO - Backtesting process started.
+2024-08-30 22:08:18,562 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-08-30 22:09:41,273 - INFO - Accuracy: 48.93%
+2024-08-30 22:09:49,538 - INFO - Accuracy: 45.63%
+2024-08-30 22:09:57,863 - INFO - Accuracy: 49.03%
+2024-08-30 22:10:06,058 - INFO - Accuracy: 50.00%
+2024-08-30 22:10:14,268 - INFO - Accuracy: 48.54%
+2024-08-30 22:10:22,540 - INFO - Accuracy: 50.24%
+2024-08-30 22:10:30,873 - INFO - Accuracy: 45.37%
+2024-08-30 22:10:39,343 - INFO - Accuracy: 49.76%
+2024-08-30 22:10:47,885 - INFO - Accuracy: 50.49%
+2024-08-30 22:11:31,818 - INFO - Backtesting process finished.
+2024-08-30 22:11:57,358 - INFO - Backtesting process started.
+2024-08-30 22:11:57,452 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-08-30 22:13:20,854 - INFO - Accuracy: 48.93%
+2024-08-30 22:13:41,061 - INFO - Accuracy: 49.71%
+2024-08-30 22:14:01,374 - INFO - Accuracy: 47.67%
+2024-08-30 22:14:21,812 - INFO - Accuracy: 49.61%
+2024-08-30 22:14:42,452 - INFO - Accuracy: 47.56%
+2024-08-30 22:15:03,257 - INFO - Accuracy: 49.51%
+2024-08-30 22:15:24,157 - INFO - Accuracy: 47.66%
+2024-08-30 22:15:45,054 - INFO - Accuracy: 47.75%
+2024-08-30 22:16:06,407 - INFO - Accuracy: 47.84%
+2024-08-30 22:16:15,973 - INFO - Backtesting process finished.
